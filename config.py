@@ -3,12 +3,12 @@
 #   Головний адмін: @artem_symy
 # ============================================================
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "MTUwMzUxNTU2Mzc1MjY4OTc2NQ.GnahNK.bhcZcV3d3Zr9rFwcG5w5VEFYwwJrGKlvVnQWw4"
 PREFIX    = "!"
 
 # ── Головний власник (незмінний, незнімний) ──────────────────
 OWNER_USERNAME = "artem_symy"   # Discord username (без #)
-OWNER_ID       = 0              # ← Постав свій Discord ID тут
+OWNER_ID       = 1076605293963776030              # ← Постав свій Discord ID тут
 
 # ── Рівні персоналу ─────────────────────────────────────────
 STAFF_LEVELS = {
